@@ -27,6 +27,7 @@
 
 #### ⚙️ Backend
 - Laravel (PHP)
+- GoLang
 - Node.js
 - REST APIs
 
@@ -50,12 +51,6 @@
 </a>
 </p>
 
----
-
-### 📄 Resume
-- 📌 [View My Resume](https://kalidassr280.hackerresume.io/79250bd2-af0f-4251-9d17-c702088ef7ee)
-
----
 
 ### 📊 GitHub Stats
 
